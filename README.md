@@ -1,2 +1,2 @@
-# first-site
+# thewhale
 building a site with gymnasium 
